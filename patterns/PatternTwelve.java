@@ -1,5 +1,5 @@
 public class PatternTwelve {
-public static void pattern11(int n){
+public static void pattern12(int n){
     int space=2*(n-1);
     //outer loop
     for(int i=0;i<n;i++){
@@ -22,7 +22,7 @@ public static void pattern11(int n){
 }
 public static void main(String[] args) {
     int n=5;
-    pattern11(n);
+    pattern12(n);
 }
     
 }
