@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Solution{
+public class NthFibonacciNumber{
     public static int FindNthFibNum(int n){
         if(n<0){
             return -1;//invalid input.fib num is not defined for neg nos.
