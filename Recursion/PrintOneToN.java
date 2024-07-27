@@ -1,4 +1,4 @@
-public class PrintNNumbersWithoutLoop {
+public class PrintOneToN {
     int cnt=1;
     public void printNos(int N)
     {
