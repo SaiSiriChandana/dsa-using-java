@@ -1,4 +1,4 @@
-class PassByValAndRef {
+class Solution {
     
     static int[] passedBy(int a, int b) {
         // code here
