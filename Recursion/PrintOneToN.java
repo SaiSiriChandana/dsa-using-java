@@ -1,4 +1,4 @@
-public class PrintOneToN {
+public class Solution {
     int cnt=1;
     public void printNos(int N)
     {
