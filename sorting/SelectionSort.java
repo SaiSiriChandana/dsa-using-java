@@ -3,7 +3,7 @@ class Solution
 	int  select(int arr[], int i)
 	{
         // code here such that selectionSort() sorts arr[]
-        //select method should return min element
+        //select method should return min element's index
         int min=i;
         for(int j=i;j<=arr.length-1;j++){
             if(arr[j]<arr[min]){
@@ -16,7 +16,7 @@ class Solution
 	void selectionSort(int arr[], int n)
 	{
 	    //code here
-	    //this method uses min from select method and sorts the arr
+	    //this method uses min index from select method and sorts the arr
 	    for(int i=0;i<=n-2;i++){
 	        int mini=select(arr,i);
 	        int temp=arr[mini];
