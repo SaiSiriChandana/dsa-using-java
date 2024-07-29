@@ -1,4 +1,4 @@
-public class Palindrome {
+public class Solution {
         public boolean isPalindrome(int x) {
             int lastDig;
             int duplicate=x;
