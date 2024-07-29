@@ -1,4 +1,4 @@
-class DatatypesExample {
+class Solution {
     static int dataTypeSize(String str) {
         switch(str){
             case "Integer":return 4;
