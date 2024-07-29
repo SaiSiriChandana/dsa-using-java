@@ -5,10 +5,10 @@ class FrequencyOfArrayElements{
         // code here
         //pre compute
          int[] hash = new int[N];
-
+        
         // Counting freq of elements within range [1, N]
         for (int i = 0; i < N; i++) {
-            if (arr[i] >= 1 && arr[i] <= N) {
+            if (arr[i] >= 1 && arr[i] <= P) {
                 hash[arr[i] - 1]++;
             }
         }
