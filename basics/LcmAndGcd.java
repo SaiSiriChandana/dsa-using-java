@@ -1,4 +1,4 @@
-public class LcmAndGcd{
+public class Solution{
 public static Long[] lcmAndGcd(Long A , Long B) {
     // code here
      // Find GCD using the Euclidean algorithm
