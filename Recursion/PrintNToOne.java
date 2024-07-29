@@ -1,4 +1,4 @@
-public class PrintNToOne {
+public class Solution {
     void printNos(int N) {
         // code here
         if (N < 1) return;
