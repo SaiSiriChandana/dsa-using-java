@@ -1,4 +1,4 @@
-public class PrintNameNTimes {
+public class Solution {
         int i=1;
         void printGfg(int N) {
             // code here
