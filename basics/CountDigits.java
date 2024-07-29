@@ -1,4 +1,4 @@
-public class CountDigits {
+public class Solution {
         static int evenlyDivides(int N){
             // code here
             int originalNum=N;
