@@ -1,5 +1,5 @@
 import java.util.List;
-public class SwitchExample {
+public class Solution {
     static double switchCase(int choice, List<Double> arr){
         // code here
         switch(choice){
