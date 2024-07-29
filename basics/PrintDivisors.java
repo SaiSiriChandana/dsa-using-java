@@ -1,4 +1,4 @@
-class PrintDivisors{
+class Solution{
     static long sumOfDivisors(int N){
         // code here
         long sum=0;
