@@ -10,9 +10,6 @@ class Solution {
         if(tempSum<0){
             tempSum=0;
         }
-        //if(tempSum>maxSum){
-          //  maxSum=tempSum;
-        //}
         }
          return maxSum;
     }
