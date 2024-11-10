@@ -6,7 +6,7 @@
 }
 */
 class Solution {
-    static boolean searchKey(int n, Node head, int key) {
+    static boolean searchKey(int n, Node head, int key){
         // Code here
         Node temp=head;
         while(temp!=null){
