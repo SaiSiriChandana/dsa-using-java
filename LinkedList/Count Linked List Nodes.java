@@ -7,7 +7,7 @@ class Node{
 
 class Solution {
     // Function to count nodes of a linked list.
-    public int getCount(Node head) {
+    public int getCount(Node head){
         // code here
         int cnt=0;
         Node temp=head;
