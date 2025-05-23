@@ -11,7 +11,7 @@ class MinStack {
         if (min_val > val) {
             min_val = val;
         }
-        st.add(new int[]{val, min_val});        
+        st.add(new int[]{val, min_val});   //new val     
     }
     
     public void pop() {
