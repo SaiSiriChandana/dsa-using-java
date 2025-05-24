@@ -45,7 +45,7 @@ Let’s connect and learn together:
 
 ---
 
-**Feel free to explore and use this repo for your own learning! ☕🖥️**
+
 
 
 
