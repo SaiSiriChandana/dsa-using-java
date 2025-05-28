@@ -9,7 +9,7 @@ Input:
 Output:
  5
 Explanation:
- Buy on day 2 (price = 1) and 
+ Buy on day 2 (price = 1) and
 sell on day 5 (price = 6), profit = 6-1 = 5.
 
 Note
