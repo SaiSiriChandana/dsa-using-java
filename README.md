@@ -31,19 +31,6 @@ This repo is built to:
 
 ---
 
-## 🛠 How to Use
-
-Go through the problems, try solving them on your own, and refer to the solutions when needed. All code is written in Java and is easy to follow.
-
----
-
-## 🔗 Connect with Me
-
-Let’s connect and learn together:  
-- 🌐 [LeetCode](https://leetcode.com/u/SiriChandana_K/)  
-- 🌐 [GeeksforGeeks](https://www.geeksforgeeks.org/user/sirichandoo04/)  
-
----
 
 
 
