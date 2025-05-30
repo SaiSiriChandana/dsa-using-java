@@ -20,7 +20,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         String number = scanner.next(); // Read number as string to handle large inputs
         scanner.close();
-
         System.out.println(oddlyEvenDifference(number));
     }
 }
