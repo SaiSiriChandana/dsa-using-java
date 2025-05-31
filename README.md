@@ -20,8 +20,10 @@ This repo is built to:
 
 - ✅ Basics and Pattern Problems
 - ✅ Basic Hashing 
-- ✅ Arrays and Strings
-- ✅ Binary Search and Sorting Algorithms
+- ✅ Arrays
+- ✅ Strings
+- ✅ Sorting Algorithms
+- ✅ Binary Search
 - ✅ Linked Lists  
 - ✅ Stacks and Queues  
 - ✅ Sliding Window and Two Pointer Techniques  
