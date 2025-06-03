@@ -4,7 +4,6 @@ class Solution {
         List<List<Integer>> ansList=new ArrayList<>();
         findSubsets(0,nums,new ArrayList<>(),ansList);
         return ansList;
-        
     }
     public void findSubsets(int ind,int[] nums,List<Integer> ds,List<List<Integer>> ansList){
         ansList.add(new ArrayList<>(ds));
