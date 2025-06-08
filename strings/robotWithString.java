@@ -6,7 +6,7 @@ Remove the first character of a string s and give it to the robot. The robot wil
 Remove the last character of a string t and give it to the robot. The robot will write this character on paper.
 Return the lexicographically smallest string that can be written on the paper.
 
-Example :
+Example:
 Input: s = "zza"
 Output: "azz"
 Explanation: Let p denote the written string.
