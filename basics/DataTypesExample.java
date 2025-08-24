@@ -11,3 +11,5 @@ class Solution {
     }
 
 }
+
+/* after a return statement any code is considered unreachable and will cause compilation error so break after return is removed*/
