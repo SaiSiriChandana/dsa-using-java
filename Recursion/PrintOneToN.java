@@ -24,5 +24,5 @@ public class Solution {
         printNos(N);
     }
 }
-
-
+/* Normal recursion prints while going forward.
+Backtracking prints while unwinding (coming back from recursion).*/
