@@ -28,4 +28,14 @@ char        | 16          | 2            | 0 to 65,535 (Unicode characters)     
 boolean     | JVM Dep.    | ~1 byte      | true / false                              | false
 
 
+
+Type Casting in Java
+
+Widening (Broadening): Converting a smaller data type to a larger one (automatic).
+👉 byte → short → int → long → float → double
+
+Narrowing: Converting a larger data type to a smaller one (explicit with cast).
+👉 double → float → long → int → short → byte
+
     */
+
